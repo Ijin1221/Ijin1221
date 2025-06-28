@@ -1,6 +1,6 @@
 <!-- 🌱 A Fresh Take on a Profile README -->
 
-<div align="center">
+<div align="left">
 
 # 𝙞𝙟𝙞𝙣 𝙜𝙚𝙤𝙧𝙜𝙚
 
@@ -48,6 +48,6 @@ Currently focused on mastering the MERN stack, I believe in building more than j
 
 ## 🚀 What I'm Up To
 
-* Shipping real-world mini projects in React and Node
+* Shipping real-world projects in React and Node
 * Optimizing REST APIs and improving frontend performance
 * Learning best practices in deployment and production readiness
