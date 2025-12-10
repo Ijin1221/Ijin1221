@@ -36,7 +36,3 @@ It is a pleasure to pull data from the database 😊
 * Optimizing REST APIs and improving frontend performance
 * Learning best practices in deployment and production readiness
 
-## 📈 Contribution Graph
-
-![Ijin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ijin1221&theme=react-dark&hide_border=true)
-
